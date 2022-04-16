@@ -2,8 +2,7 @@
   "name": "vite_crud",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build"
+    "dev": "vite"
   },
   "dependencies": {
     "axios": "^0.26.1",
